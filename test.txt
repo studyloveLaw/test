@@ -3,6 +3,3 @@ total 0
 aaaaaa
 dddddd
 eeeeee
-ffffffffff
-ggggggg
-hhhhhh
